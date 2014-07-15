@@ -1,0 +1,5 @@
+======================
+added from tmp folder
+===========================
+after resolving the conflict and merging successfully
+====================================================
